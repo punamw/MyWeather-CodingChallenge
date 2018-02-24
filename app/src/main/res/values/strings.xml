@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+
+    <string-array name="cities">
+        <item>Calgary</item>
+        <item>Vancouver</item>
+        <item>Toronto</item>
+    </string-array>
+
+</resources>
